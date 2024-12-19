@@ -1,6 +1,9 @@
-`<h1 align="center">Hello! I am Rohan! 👋</h1>`
+<br>
 
-`<br>`
+```html
+<h1 align="center">Hello! I am Rohan! 👋</h1>
+
+<br>
 
 🎓 Currently, I am a BS student in the Department of Electrical Engineering and Computer Science at IISER Bhopal.
 
@@ -12,8 +15,10 @@
 
 💻 [My homepage](https://rohmeh.github.io/)  
 ↳ [My email](mailto:rohanmehra.eng@gmail.com)
+↳ [My LinkedIn](https://www.linkedin.com/in/mehra-rohan)
 
-`<br>`
+<br>
+```
 
 
 
