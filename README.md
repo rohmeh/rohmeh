@@ -1,19 +1,20 @@
-<h1 align="center">Hello! I am Rohan! 👋</h1>
+&lt;h1 align="center"&gt;Hello! I am Rohan! 👋&lt;/h1&gt;
 
-<br>
+&lt;br&gt;
 
 🎓 Currently, I am a BS student in the Department of Electrical Engineering and Computer Science at IISER Bhopal.
 
 💻 I’m broadly interested in the domain of computer vision and robotics.
 
-🎵 In my free time, I enjoy learning new languages and playing table tennis to unwinf
-    
-🤝 If you want to talk to me about anything then feel free to reach out to me on the email given below.
+🎵 In my free time, I enjoy learning new languages and playing table tennis to unwind.
 
-💻 [My homepage](https://rohmeh.github.io/)
-    ↳ [My email](mailto:rohanmehra.eng@gmail.com)
+🤝 If you want to talk to me about anything, feel free to reach out to me on the email given below.
 
-<br>
+💻 [My homepage](https://rohmeh.github.io/)  
+↳ [My email](mailto:rohanmehra.eng@gmail.com)
+
+&lt;br&gt;
+
 
 <!--
 **rohmeh/rohmeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
