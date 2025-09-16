@@ -5,7 +5,7 @@
 
 <br>
 
-🎓 Currently, I am an incoming M2 Computer Science Student at ISIMA, Clermont Auvernge INP.
+🎓 Currently, I am an M2 Computer Science Student at ISIMA, Clermont Auvernge INP.
 ↳ I have completed my BS in Electrical Engineering and Computer Science at IISER Bhopal in 2025.
 
 💻 I’m broadly interested in the domain of computer vision and robotics.
