@@ -5,7 +5,7 @@
 
 <br>
 
-🎓 Currently, I am a PhD Student in Self-Supervised Learning at LabSTICC / Bretagne INP - ENIB.
+🎓 Currently, I am a PhD Student at LabSTICC / Bretagne INP - ENIB.
 ↳ I studied EECS (B.S.) at IISER Bhopal from 2021-25, then Computer Science (M.S.) at Clermont Auvernge INP - ISIMA in 2025-26. 
 
 💻 I’m interested in the domain of computer vision, self-supervised learning, foundation models and robotics.
