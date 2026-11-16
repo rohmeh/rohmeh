@@ -5,10 +5,10 @@
 
 <br>
 
-🎓 Currently, I am an M2 Computer Science Student at ISIMA, Clermont Auvernge INP.
-↳ I have completed my BS in Electrical Engineering and Computer Science at IISER Bhopal in 2025.
+🎓 Currently, I am a PhD Student in Self-Supervised Learning at LabSTICC / Bretagne INP - ENIB.
+↳ I studied EECS (BS degree) at IISER Bhopal from 2021-25, then Computer Science (MS degree) at Clermont Auvernge INP - ISIMA in 2025-26. 
 
-💻 I’m broadly interested in the domain of computer vision and robotics.
+💻 I’m interested in the domain of computer vision, self-supervised learning, foundation models and robotics.
 
 🎵 In my free time, I enjoy learning new languages and playing table tennis to unwind.
 
